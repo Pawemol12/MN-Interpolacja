@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+MN Interpolacja/*.txt
+/MN Interpolacja/raport_rownoodlegle_-1.000000_1.000000_5_150.000000.txt
